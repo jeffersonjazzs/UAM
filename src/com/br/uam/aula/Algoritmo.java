@@ -1,4 +1,4 @@
-package com.br.uam.aula1;
+package com.br.uam.aula;
 
 import java.util.Scanner;
 
