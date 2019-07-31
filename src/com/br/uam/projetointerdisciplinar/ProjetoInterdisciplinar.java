@@ -1,6 +1,3 @@
-/*Trabalho realizado por,José Carlos Malafaia, Jefferson de Oliveira, Gustavo Monteirom e Caio Henrique
- Logica e comentarios: José Carlos Malafaia e Gustavo Monteiro
- Correção e sintetização: Caio Henrique e Jefferson de Oliveira*/
 package com.br.uam.projetointerdisciplinar;
 
 import java.util.Scanner;
