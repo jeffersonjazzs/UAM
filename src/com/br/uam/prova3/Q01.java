@@ -20,6 +20,7 @@ public class Q01 {
             }
         }
         System.out.println("Soma par: " + somaPar);
-        System.out.println("Quantidade de negativos: " + quantNegativo);
+        System.out.println("Quantidade de negativos: " + quantNegativo);;
+        System.out.println();
     }
 }
